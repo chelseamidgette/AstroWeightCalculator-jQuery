@@ -1,0 +1,11 @@
+body {
+	margin: 100px;
+};
+
+legend {
+	font-family: 'Raleway', sans-serif;
+};
+
+button {
+	vertical-align: bottom;
+}
